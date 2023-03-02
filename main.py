@@ -100,4 +100,4 @@ tree2.set_position(360, 240)
 tree3 = sprites.create(assets.image("""
     tree3
 """), SpriteKind.player)
-tree3.set_position(80, 60)
+tree3.set_position(320, 240)
