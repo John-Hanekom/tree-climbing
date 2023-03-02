@@ -1,5 +1,6 @@
 {
     "name": "tree climbing",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*"
